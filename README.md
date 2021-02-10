@@ -11,7 +11,7 @@ El script hace paso a paso cada uno de los puntos mencionados anteriormente, cab
 resolución se uso varias fuentes para lograr el objetivo.
 
 Este repositorio en general contiene:
-  - '''CodeBook.md.''' archivo que descirbe las variables y los datos.
-  - '''run_analysis.R''' contiene el código del proyecto.
-  - '''averagedata.txt''' contiene las características promedio de cada tema y actividad.
+  - `CodeBook.md.` archivo que descirbe las variables y los datos.
+  - `run_analysis.R` contiene el código del proyecto.
+  - `averagedata.txt` contiene las características promedio de cada tema y actividad.
 
