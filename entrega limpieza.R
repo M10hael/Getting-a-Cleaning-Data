@@ -60,5 +60,3 @@ Data2<-Data2[order(Data2$Subject,Data2$Activity),]
 #Obtenemos el archivo en formatp .txt
 write.table(Data2, file = "DATA.txt",row.name=FALSE)
 View(Data2)
-
-"Nota: Este ejercicio se realiza con la ayuda del señor Shujuan Huang
