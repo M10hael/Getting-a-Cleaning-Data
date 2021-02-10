@@ -2,7 +2,7 @@
   - Este proyecto contiene seis datos inciales: `x_train.txt`, `x_test.txt`, `y_train.txt`, `y_test.txt`, `subject_train.txt` y `subject_test.txt`.
   - El archivo `features.txt` contiene el nombre de la variable correcto, que corresponde a cada columna de `x_train.txt` y `x_test.txt`. Adicionalmente
   el archivo`features_info.txt` da más información de todo el conjunto de datos. 
-  -EL documento de texto `activity_labels.txt` contiene los nombres descriptivos para cada una de las actividades, que corresponde a cada número en 
+  - EL documento de texto `activity_labels.txt` contiene los nombres descriptivos para cada una de las actividades, que corresponde a cada número en 
   los archivos `y_train.txt` y `y_test.txt`.
 
 # Descripción del proceso
